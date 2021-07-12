@@ -1,0 +1,21 @@
+{
+  "name": "apollo-server-kuzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "kuzzle": "2.12.0",
+    "@apollo/federation": "^0.25.1",
+    "@apollo/gateway": "^0.28.3",
+    "apollo-server-core": "^2.25.1"
+  },
+  "dependencies": {
+    "@apollographql/graphql-playground-html": "^1.6.29"
+  }
+}
